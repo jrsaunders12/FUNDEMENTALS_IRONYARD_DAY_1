@@ -1,0 +1,16 @@
+.logo.jpg {
+  height: .2px;
+  width: 3px;
+}
+.orange-background {
+  background-color: orange;
+}
+.larger-text {
+  font-size: 40px
+}
+.white {
+  color: white
+}
+.underline {
+  text-decoration: underline blue;
+}
