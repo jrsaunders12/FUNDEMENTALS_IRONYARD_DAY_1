@@ -1,16 +1,77 @@
-.logo.jpg {
-  height: .2px;
-  width: 3px;
+.white-background {
+  background-color: white;
 }
+.inline {
+  display: inline;
+}
+.logo {
+  margin-top: 2%;
+  width: 25%;
+  height: 30%;
+}
+.red {
+  margin-left: 2%;
+  color: red;
+  text-decoration: none;
+  display: inline-block;
+}
+.right {
+  float: right;
+  color: red;
+  margin-top: 2.5%;
+  margin-right: 2%;
+}
+
 .orange-background {
   background-color: orange;
+  margin-top: 3%;
+  display: inline-block;
 }
-.larger-text {
-  font-size: 40px
+.shoe1 {
+  width: 40%;
+  height: 40%;
+  float: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
-.white {
-  color: white
+.price {
+  display: inline;
 }
-.underline {
-  text-decoration: underline blue;
+.white-letter1 {
+  color: white;
+  margin-top: 10%;
+}
+.white-letter {
+  color: white;
+}
+.red2 {
+  margin-left: 10%;
+  display: inline;
+  color: red;
+  text-decoration: none;
+}
+.middle-letter {
+  margin-left:10%;
+  padding-top: 2%;
+  padding-bottom: 5%;
+}
+.pink-bar {
+  background-color: pink;
+}
+.shopshoes {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 40%;
+}
+.orange-background2 {
+  background-color: orange;
+}
+.bottom-shoes {
+  display: inline-block;
+}
+.shoe {
+  height: 20%;
+  width: 20%;
 }
